@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RushabhMahale1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=RushabhMahale1)
 
-## I Completed my graduation student of Electronics and Telecommunication. I completed my Degree from Savitribai Phule Pune University i have grasp knowledge about electronics and technical field i have good knowledge about hardware now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
+## I completed my Degree from Savitribai Phule Pune University i have grasp knowledge about electronics and technical field i have good knowledge about hardware now i am very much passionate about Cloud technology ,Networking, Network security, embedded systems, linux ,Devops python (Data science)
 
 - 🔭 I'm a multicloud guy
 - 🌱 I’m currently learning more about DevOps Tools
